@@ -1,4 +1,4 @@
-# CineMagic 🎬
+# Cine Booking 🎬
 
 Welcome to **CineMagic**, your go-to platform for booking movie tickets conveniently and efficiently. Say goodbye to long queues at movie counters and enjoy a seamless ticket booking experience.
 
